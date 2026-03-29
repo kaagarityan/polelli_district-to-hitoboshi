@@ -1,0 +1,6 @@
+body {
+    background-color: #AD8793; /* 背景色を淡い青に設定 */
+    font-family:ToppanBunkyuMinchoPr6N-Regular;
+    color: #333; /* 文字色を濃いグレーに設定 */
+    padding-top: 56px; /* 固定ヘッダーの高さ分、上にスペースを確保 */
+}
